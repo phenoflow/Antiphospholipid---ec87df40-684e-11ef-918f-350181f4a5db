@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-fhir.js
+inputModule2:
+  class: File
+  path: python/antiphospholipid---secondary.py
+inputModule3:
+  class: File
+  path: python/hemorrhagic-antiphospholipid---secondary.py
+inputModule4:
+  class: File
+  path: python/antiphospholipid-anticoagulant---secondary.py
+inputModule5:
+  class: File
+  path: python/antiphospholipid-thrombophilia---secondary.py
+inputModule6:
+  class: File
+  path: python/primary-antiphospholipid---secondary.py
+inputModule7:
+  class: File
+  path: python/antiphospholipid-multisystem---secondary.py
+inputModule8:
+  class: File
+  path: python/catastrophic-antiphospholipid---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
